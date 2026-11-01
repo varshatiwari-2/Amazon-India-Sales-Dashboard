@@ -1,0 +1,31 @@
+AMAZON INDIA DASHBOARD — FINAL QA REPORT
+=======================================================
+
+STATUS: READY TO SUBMIT
+
+SOURCE DATA
+- Records: 10,000
+- Columns: 13
+
+VERIFIED KPIs
+- Total Sales: ₹155,789,893.89
+- Total Profit: ₹33,167,008.49
+- Total Orders: 10,000
+- Units Sold: 24,926
+- Average Order Value: ₹15,578.99
+- Profit Margin: 21.29%
+- Return Rate: 4.85%
+- Cancellation Rate: 5.00%
+
+PROJECT REQUIREMENT COVERAGE
+- Overall Sales & Profit Performance: PASS
+- Category & Product Performance: PASS
+- Order Status & Revenue Loss: PASS
+- Payment, Fulfillment & Geographic Performance: PASS
+- Category-wise Returns & Cancellations: PASS
+- Fulfillment Performance: PASS
+- Dashboard visualizations: 6 charts present
+
+ISSUES: None
+
+WARNINGS: None
